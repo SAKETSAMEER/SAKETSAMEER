@@ -22,12 +22,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 - 🔭 [Online-Chat-WebApp]: This is an online chat web application built with the [Flet] framework. It allows users to join a chat room, send and receive messages, and interact with others in real-time.
 - ...
 
-## Tech Skills
 
-![Python](https://www.qwerly.com/wp-content/uploads/2016/06/HTML-5.jpg)
-![Java](https://www.example.com/java-logo.png)
-![HTML]([https://www.example.com/html-logo.png])
-- ...
 
 ## Get in Touch
 
