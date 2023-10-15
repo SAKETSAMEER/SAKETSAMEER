@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 ## About Me
 
 - 🌱 I'm a software developer with expertise in Java, Python, HTML, and CSS.
-- 💼 Currently working on [Online-Chat-WebApp].
+- 💼 I'm currently looking for java/python based jobs
 - 🎓 Will Graduated in 2024 in [Computer Science and Engineering].
 - 🌍 I love building web applications and exploring new frameworks.
 - 📚 I'm constantly learning and improving my coding skills.
