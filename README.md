@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 
 ## About Me
 
-- 🌱 I'm a software developer with expertise in Java, Python, HTML, and CSS.
+- 🌱 I'm a web developer with expertise in Java, Python, HTML, and CSS.
 - 💼 I'm currently looking for java/python based work
 - 🎓 Will Graduated in 2024 in [Computer Science and Engineering].
 - 🌍 I love building web applications and exploring new frameworks.
